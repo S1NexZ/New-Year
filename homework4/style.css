@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    background: linear-gradient(60deg,#808080, #9198e5);
+    text-align: center;
+}
+welcome-sign{
+    transition: 1s;
+}
+
+welcome-sign:hover{
+    font-size: 50px;
+    color: white;
+}
+
+menu-item{
+list-style-type: none;
+float: left;
+width: 20%;
+}
+
